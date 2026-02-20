@@ -208,6 +208,8 @@ Machine learning project predicting customer churn using supervised learning alg
 
 **Note:** Visualizations are screenshots from RapidMiner analysis. Original RapidMiner process files (.rmp) not included due to proprietary data handling.
 
+Full analysis available in: [`report/Customer_Churn_Analysis_Report.pdf`](report/Customer_Churn_Analysis_Report.pdf)
+
 ---
 
 ## Technologies Used
